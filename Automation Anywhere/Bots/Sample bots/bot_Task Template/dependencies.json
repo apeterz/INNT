@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Sample bots\\Bot Template","manualDependencies":["Automation Anywhere\\Bots\\Trazabilidad\\Assets\\Scripts\\GetDocumentsFolder.vbs","Automation Anywhere\\Bots\\Trazabilidad\\Assets\\Scripts\\Fecha +n dias dd-mm-aaaa.vbs"],"scannedDependencies":["Automation Anywhere\\Bots\\Trazabilidad\\Assets\\Scripts\\GetDocumentsFolder.vbs"]}
+{"path":"Automation Anywhere\\Bots\\Sample bots\\Bot Template","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Sample bots\\Assets\\GetDocumentsFolder.vbs"]}
