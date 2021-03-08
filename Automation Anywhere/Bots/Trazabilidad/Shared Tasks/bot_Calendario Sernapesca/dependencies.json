@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Trazabilidad\\Shared Tasks\\Calendario Sernapesca","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Trazabilidad\\Shared Tasks\\Calendario Sernapesca","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Trazabilidad\\Shared Tasks\\Calendario Sernapesca MES ANTERIOR","Automation Anywhere\\Bots\\Trazabilidad\\Shared Tasks\\Calendario Sernapesca TODAY"]}
